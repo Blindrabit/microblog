@@ -12,6 +12,8 @@ flask-migrate = "*"
 flask-login = "*"
 email-validator = "*"
 black = {extras = ["d"], version = "*"}
+flask-mail = "*"
+pyjwt = "*"
 
 [dev-packages]
 
